@@ -26,4 +26,4 @@ Welcome to the official GitHub organization of **[Nirobha Digital](https://nirob
 - 🌍 **Website:** [nirobhadigital.com](https://nirobhadigital.com/)
 - 📱 **WhatsApp / Call:** [+91 70632 23012](https://wa.me/917063223012)
 - 📧 **Inquiries:** info@nirobhadigital.com
-- 📍 **Headquarters:** Siliguri, West Bengal 734001, India
+- 📍 **Headquarters:** Siliguri, West Bengal 734006, India
